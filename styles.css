@@ -27,6 +27,17 @@
     :root{
         --big-font-size: 35px;
     }
+    .about-text{
+        width: 330px;
+    }
+    .work-image img{
+        width: 350px;
+        height: auto;
+    }
+    .comment-form{
+        width: 300px;
+    }
+
 }
 html{
     width:100%;
@@ -150,7 +161,7 @@ button:focus {
 .about-container{
     display: grid;
     justify-items: center;
-    row-gap: 30px;
+    gap: 1em;
     text-align: center;
     margin-top: 50px;
     margin-bottom: 200px;
@@ -301,12 +312,11 @@ button:focus {
 }
 .comment-form{
     display: grid;
-    width: 30vw;
+    width: 450px;
     line-height: 2;
     margin-top: 50px;
     margin-bottom: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 20px 50px;
     color: var(--first-color);
     font-size: var(--small-font-size);
     background-color: var(--under-color);
