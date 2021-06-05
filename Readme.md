@@ -1,4 +1,5 @@
 # Kimberly Chan about-me site
+This is the first website I made with pure HTML, CSS and JavaScript
 ## Content
 ### **Main**
 >* Keep things simple with fixed header and a collapsible menu by Bootstrap
@@ -26,11 +27,8 @@ phone with video and pictures to show how it looks like on computer
 >* Chat box: showing more by clicking the buttons(JS onclick function)<br>
 //Want to make it like chatbot but probably in the future after I develop the needed skills//
 >* The comment form details would be sent to my email(formspree)
->* With a gif background, look a bit more fancy(I think:))
 
 
 ### **Others**
 >* **Responsive webpage** : I used media queries for the font and bootstrap for the display 
->* **Scroll to top button** : By javascript. I learnt this from W3Schools. It's a really helpful website. Instead of just showing the code, it also told me what the code is trying to do
 >* **Consistent color and font size** : I found it's a bit troublesome to look for the font-size/colour that I've used and found that :root{} could make everything more convenient
->* **My best friends in making this webpage: Google and Youtube**
